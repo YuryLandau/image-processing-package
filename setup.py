@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="landau-image-processing",
-    version="0.0.1",
+    version="0.0.4",
     author="Yury Landau",
     author_email="yurylandau@gmail.com",
     description="My short description",
